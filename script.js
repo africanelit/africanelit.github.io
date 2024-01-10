@@ -58,4 +58,4 @@ function updateGradient() {
     }
 }
 
-setInterval(updateGradient, 3);
+setInterval(updateGradient, 1);
